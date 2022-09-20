@@ -1,5 +1,8 @@
-vendor/
-node_modules/
+/kirby
+/vendor
+/node_modules
+.DS_Store
+/dist
 # System files
 # ------------
 

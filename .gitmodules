@@ -1,0 +1,3 @@
+[submodule "site/plugins/vite"]
+	path = site/plugins/vite
+	url = git@github.com:OblikStudio/kirby-vite.git

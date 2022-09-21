@@ -2,7 +2,7 @@
 
 > This is a reminder of how to quickly setup a Kirby website with Vite.
 
-The original vite plugin repo is here: https://github.com/OblikStudio/kirby-vite/
+The original vite plugin repo is here: https://github.com/OblikStudio/kirby-vite
 
 I've done some quick adaptations for me to get started quickly on a new project.
 
